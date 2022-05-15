@@ -1,4 +1,4 @@
-// 6kyu - A needle in the haystack
+// 8kyu - A needle in the haystack
 
 // P - array including 'needle'
 // R - return string 'found the needle at position index'
